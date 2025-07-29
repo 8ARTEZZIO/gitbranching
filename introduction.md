@@ -1,4 +1,4 @@
-### 📝 Git commits
+### 📝 Git commands
 
 ---
 
